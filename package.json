@@ -1,0 +1,10 @@
+{
+  "name": "dukaan-saathi",
+  "version": "1.0.0",
+  "description": "AI Freshness Clock for local shops and farmers (Gemini Vision)",
+  "type": "module",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "express": "^4.19.2" }
+}
